@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Basic Website</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>Welcome to My Website</h1>
+	</header>
+	
+	<nav>
+		<ul>
+			<li><a href="#">Home</a></li>
+			<li><a href="#">About</a></li>
+			<li><a href="#">Contact</a></li>
+		</ul>
+	</nav>
+	
+	<main>
+		<h2>My Content</h2>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor lobortis ipsum, at faucibus est consectetur vel. Nulla vitae nunc quam. Donec aliquet auctor massa, ut dapibus mi vehicula non. Nam id turpis eu odio faucibus volutpat. Morbi luctus, mauris id blandit suscipit, nulla sapien blandit elit, ac aliquet elit est vel massa. Praesent rutrum nibh eu venenatis tristique. Suspendisse potenti. Morbi at massa at odio fringilla fringilla. Nullam euismod eros a turpis semper, ac sagittis tellus lacinia. Sed porta, massa at eleifend posuere, tellus enim dictum ante, a iaculis enim sapien sit amet nisl. Donec sed neque et sem rhoncus molestie in eget ipsum. Sed congue sapien id tincidunt ullamcorper. Curabitur vel urna nisi. </p>
+	</main>
+	
+	<footer>
+		<p>Copyright © 2023 My Basic Website</p>
+	</footer>
+</body>
+</html>
